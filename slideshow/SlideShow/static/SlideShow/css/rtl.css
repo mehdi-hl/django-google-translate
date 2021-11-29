@@ -1,0 +1,21 @@
+body{
+    direction: rtl;
+    text-align: right;
+    font-family: tahoma;
+}
+.owl-carousel .owl-stage-outer {
+    direction: ltr;
+
+}
+.owl-carousel .owl-stage-outer p{
+    direction: ltr;
+}
+.brand.left {
+    float: right !important;
+}
+.brand.right {
+    float: left !important;
+}
+.brand.right h3 {
+    font-size: 1rem;
+}
